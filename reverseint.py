@@ -9,7 +9,7 @@
 
 
 """My Solution algorithm
-Step1:check if variable input is a positive value by checking if it is greater than 0
+Step1:check if variable input is a negative value by checking if it is greater than 0
 step2: if step1 is true multiply my -1
 step3: converting the integer to a string and revese the string
 step4:converte the revesed string to an integer
