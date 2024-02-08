@@ -7,7 +7,7 @@
 """ My solution algorithm
 step1:iterating numbers through range 1-101
 step2:checking if the number is divisible by 3
-step3: if number is divisible by 3 check if is divisible by 5 and if true prints "fizz" if false print "Buzz"
+step3: if number is divisible by 3 check if is divisible by 5 and if true prints "fizzbuz" if false print "Buzz"
 step4: check if number is divisible by 5 and if True prints Fizz
 step5: if step2 ,step3,step4 are false print the number
 """
